@@ -1,0 +1,12 @@
+low_payout_4.webp
+	size: 446, 315
+	filter: Linear, Linear
+Low_value_4
+	bounds: 330, 164, 114, 149
+Sunburst_12
+	bounds: 2, 2, 311, 326
+	offsets: 36, 22, 383, 376
+	rotate: 90
+blinky_00006
+	bounds: 330, 53, 114, 109
+	offsets: 5, 9, 119, 124

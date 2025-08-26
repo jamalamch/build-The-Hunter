@@ -1,0 +1,116 @@
+grand_win.webp
+	size: 1778, 474
+	filter: Linear, Linear
+	scale: 0.5
+flag
+	bounds: 551, 9, 494, 152
+	offsets: 0, 1, 494, 166
+grand
+	bounds: 2, 6, 547, 155
+grand_fx/grand_0
+	bounds: 2, 3, 1, 1
+grand_fx/grand_29
+	bounds: 2, 3, 1, 1
+grand_fx/grand_1
+	bounds: 1028, 181, 7, 21
+	offsets: 13, 30, 300, 100
+grand_fx/grand_10
+	bounds: 1205, 6, 51, 68
+	offsets: 71, 16, 300, 100
+grand_fx/grand_11
+	bounds: 1258, 6, 50, 68
+	offsets: 83, 17, 300, 100
+grand_fx/grand_12
+	bounds: 1728, 331, 48, 68
+	offsets: 95, 17, 300, 100
+grand_fx/grand_13
+	bounds: 1728, 401, 46, 71
+	offsets: 108, 17, 300, 100
+grand_fx/grand_14
+	bounds: 1357, 6, 44, 68
+	offsets: 122, 20, 300, 100
+grand_fx/grand_15
+	bounds: 1728, 190, 46, 68
+	offsets: 132, 20, 300, 100
+grand_fx/grand_16
+	bounds: 1728, 260, 46, 69
+	offsets: 144, 19, 300, 100
+grand_fx/grand_17
+	bounds: 1728, 119, 45, 69
+	offsets: 156, 19, 300, 100
+grand_fx/grand_18
+	bounds: 748, 163, 47, 70
+	offsets: 167, 17, 300, 100
+	rotate: 90
+grand_fx/grand_19
+	bounds: 896, 164, 48, 73
+	offsets: 178, 15, 300, 100
+	rotate: 90
+grand_fx/grand_2
+	bounds: 1403, 2, 21, 47
+	offsets: 13, 20, 300, 100
+	rotate: 90
+grand_fx/grand_20
+	bounds: 820, 163, 49, 74
+	offsets: 189, 13, 300, 100
+	rotate: 90
+grand_fx/grand_21
+	bounds: 1154, 3, 49, 71
+	offsets: 201, 11, 300, 100
+grand_fx/grand_22
+	bounds: 971, 235, 51, 73
+	offsets: 211, 11, 300, 100
+	rotate: 90
+grand_fx/grand_23
+	bounds: 861, 214, 52, 72
+	offsets: 221, 11, 300, 100
+grand_fx/grand_24
+	bounds: 1101, 5, 51, 69
+	offsets: 232, 11, 300, 100
+grand_fx/grand_25
+	bounds: 1728, 49, 45, 68
+	offsets: 242, 11, 300, 100
+grand_fx/grand_26
+	bounds: 1427, 29, 34, 62
+	offsets: 253, 13, 300, 100
+	rotate: 90
+grand_fx/grand_27
+	bounds: 1403, 25, 22, 49
+	offsets: 265, 18, 300, 100
+grand_fx/grand_28
+	bounds: 1028, 204, 10, 29
+	offsets: 277, 25, 300, 100
+grand_fx/grand_3
+	bounds: 1491, 14, 33, 62
+	offsets: 13, 13, 300, 100
+	rotate: 90
+grand_fx/grand_4
+	bounds: 1310, 7, 45, 67
+	offsets: 13, 11, 300, 100
+grand_fx/grand_5
+	bounds: 915, 218, 54, 68
+	offsets: 14, 11, 300, 100
+grand_fx/grand_6
+	bounds: 971, 166, 55, 67
+	offsets: 23, 11, 300, 100
+grand_fx/grand_7
+	bounds: 804, 214, 55, 72
+	offsets: 34, 11, 300, 100
+grand_fx/grand_8
+	bounds: 748, 212, 54, 74
+	offsets: 46, 11, 300, 100
+grand_fx/grand_9
+	bounds: 1047, 4, 52, 70
+	offsets: 59, 15, 300, 100
+panel
+	bounds: 1434, 65, 407, 292
+	rotate: 90
+rays
+	bounds: 1047, 76, 385, 396
+	offsets: 18, 13, 421, 427
+sparks
+	bounds: 2, 163, 744, 309
+	offsets: 2, 2, 747, 315
+win
+	bounds: 748, 288, 292, 184
+	offsets: 3, 10, 300, 194

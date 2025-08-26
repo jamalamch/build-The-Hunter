@@ -1,0 +1,18 @@
+low_payout_5.webp
+	size: 451, 315
+	filter: Linear, Linear
+Sunburst_12
+	bounds: 2, 2, 311, 326
+	offsets: 36, 22, 383, 376
+	rotate: 90
+blinky_00006
+	bounds: 330, 70, 114, 109
+	offsets: 5, 9, 119, 124
+cloth
+	bounds: 330, 4, 46, 64
+neck
+	bounds: 330, 181, 119, 132
+	offsets: 1, 1, 121, 134
+ring
+	bounds: 378, 46, 24, 22
+	offsets: 1, 1, 26, 24

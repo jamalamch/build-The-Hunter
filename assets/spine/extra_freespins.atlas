@@ -1,0 +1,125 @@
+extra_freespins.webp
+	size: 1587, 523
+	filter: Linear, Linear
+	scale: 0.5
+ARE NOW x10
+	bounds: 471, 10, 226, 40
+EXTRA
+	bounds: 1285, 67, 249, 62
+PRESS ANYWHERE TO CONTINUE
+	bounds: 1225, 52, 214, 13
+YOU HAVE WON
+	bounds: 471, 52, 297, 32
+base
+	bounds: 2, 2, 467, 336
+cong_fx/cong_fx_0
+	bounds: 1584, 89, 1, 1
+cong_fx/cong_fx_1
+	bounds: 1584, 89, 1, 1
+cong_fx/cong_fx_28
+	bounds: 1584, 89, 1, 1
+cong_fx/cong_fx_29
+	bounds: 1584, 89, 1, 1
+cong_fx/cong_fx_10
+	bounds: 1310, 17, 47, 33
+	offsets: 72, 37, 300, 100
+cong_fx/cong_fx_11
+	bounds: 770, 52, 47, 32
+	offsets: 84, 39, 300, 100
+cong_fx/cong_fx_12
+	bounds: 819, 52, 46, 32
+	offsets: 96, 40, 300, 100
+cong_fx/cong_fx_13
+	bounds: 1359, 18, 46, 32
+	offsets: 108, 40, 300, 100
+cong_fx/cong_fx_14
+	bounds: 1536, 60, 46, 30
+	offsets: 120, 42, 300, 100
+cong_fx/cong_fx_15
+	bounds: 1534, 28, 46, 30
+	offsets: 132, 42, 300, 100
+cong_fx/cong_fx_16
+	bounds: 1501, 20, 45, 31
+	offsets: 144, 41, 300, 100
+	rotate: 90
+cong_fx/cong_fx_17
+	bounds: 1407, 18, 45, 32
+	offsets: 156, 40, 300, 100
+cong_fx/cong_fx_18
+	bounds: 1454, 32, 45, 33
+	offsets: 168, 38, 300, 100
+cong_fx/cong_fx_19
+	bounds: 825, 359, 46, 34
+	offsets: 179, 37, 300, 100
+cong_fx/cong_fx_2
+	bounds: 776, 340, 14, 24
+	offsets: 16, 33, 300, 100
+	rotate: 90
+cong_fx/cong_fx_20
+	bounds: 825, 395, 46, 35
+	offsets: 191, 35, 300, 100
+cong_fx/cong_fx_21
+	bounds: 1262, 14, 46, 36
+	offsets: 202, 33, 300, 100
+cong_fx/cong_fx_22
+	bounds: 776, 393, 47, 37
+	offsets: 213, 30, 300, 100
+cong_fx/cong_fx_23
+	bounds: 1225, 68, 46, 38
+	offsets: 225, 28, 300, 100
+cong_fx/cong_fx_24
+	bounds: 775, 2, 47, 36
+	offsets: 236, 28, 300, 100
+cong_fx/cong_fx_25
+	bounds: 859, 4, 38, 34
+	offsets: 246, 28, 300, 100
+cong_fx/cong_fx_26
+	bounds: 1285, 158, 27, 31
+	offsets: 257, 28, 300, 100
+cong_fx/cong_fx_27
+	bounds: 1285, 140, 16, 26
+	offsets: 268, 31, 300, 100
+	rotate: 90
+cong_fx/cong_fx_3
+	bounds: 899, 8, 26, 30
+	offsets: 16, 29, 300, 100
+cong_fx/cong_fx_4
+	bounds: 824, 2, 36, 33
+	offsets: 16, 29, 300, 100
+	rotate: 90
+cong_fx/cong_fx_5
+	bounds: 738, 2, 48, 35
+	offsets: 16, 29, 300, 100
+	rotate: 90
+cong_fx/cong_fx_6
+	bounds: 1536, 92, 49, 37
+	offsets: 26, 29, 300, 100
+cong_fx/cong_fx_7
+	bounds: 699, 2, 48, 37
+	offsets: 38, 30, 300, 100
+	rotate: 90
+cong_fx/cong_fx_8
+	bounds: 1225, 2, 48, 35
+	offsets: 49, 33, 300, 100
+	rotate: 90
+cong_fx/cong_fx_9
+	bounds: 776, 356, 47, 35
+	offsets: 61, 35, 300, 100
+congratulations
+	bounds: 776, 432, 536, 89
+leaf1
+	bounds: 1120, 13, 103, 93
+leaf2
+	bounds: 879, 40, 149, 239
+	rotate: 90
+leaf3
+	bounds: 1314, 131, 271, 390
+leaf4
+	bounds: 471, 86, 406, 252
+leaf5
+	bounds: 1120, 108, 163, 81
+	offsets: 1, 0, 164, 81
+leaf6
+	bounds: 879, 191, 427, 239
+symbol
+	bounds: 2, 340, 772, 181

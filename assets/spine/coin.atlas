@@ -1,0 +1,159 @@
+coin.webp
+	size: 1571, 776
+	filter: Linear, Linear
+banner_rays
+	bounds: 2, 171, 603, 549
+	offsets: 161, 25, 939, 582
+	rotate: 90
+base
+	bounds: 2, 2, 167, 176
+	offsets: 1, 1, 169, 178
+	rotate: 90
+blinky_01
+	bounds: 594, 21, 28, 27
+	offsets: 47, 50, 119, 124
+	rotate: 90
+blinky_02
+	bounds: 1140, 439, 57, 56
+	offsets: 34, 36, 119, 124
+	rotate: 90
+blinky_03
+	bounds: 863, 4, 90, 97
+	offsets: 14, 14, 119, 124
+blinky_04
+	bounds: 1328, 304, 111, 113
+	offsets: 6, 7, 119, 124
+	rotate: 90
+blinky_05
+	bounds: 1285, 6, 119, 123
+	offsets: 0, 0, 119, 124
+blinky_06
+	bounds: 1328, 417, 114, 109
+	offsets: 5, 9, 119, 124
+blinky_07
+	bounds: 998, 411, 81, 79
+	offsets: 23, 24, 119, 124
+	rotate: 90
+blinky_08
+	bounds: 1079, 432, 64, 59
+	offsets: 30, 34, 119, 124
+	rotate: 90
+coin2 copy 3
+	bounds: 1027, 15, 92, 64
+	offsets: 1, 1, 94, 66
+	rotate: 90
+coin2 copy 4
+	bounds: 1093, 15, 92, 64
+	offsets: 1, 1, 94, 66
+	rotate: 90
+coin2 copy 5
+	bounds: 932, 400, 92, 64
+	offsets: 1, 1, 94, 66
+	rotate: 90
+coin2 copy 6
+	bounds: 955, 8, 70, 93
+	offsets: 1, 1, 72, 95
+frame
+	bounds: 553, 199, 193, 194
+	offsets: 1, 1, 195, 196
+particles
+	bounds: 553, 395, 379, 377
+	offsets: 215, 204, 800, 795
+	rotate: 90
+placeholder
+	bounds: 180, 20, 1, 1
+saber_00
+	bounds: 1406, 46, 108, 109
+	offsets: 43, 44, 195, 196
+saber_01
+	bounds: 1328, 528, 114, 117
+	offsets: 40, 40, 195, 196
+	rotate: 90
+saber_02
+	bounds: 1448, 532, 120, 120
+	offsets: 37, 38, 195, 196
+saber_03
+	bounds: 1380, 157, 120, 119
+	offsets: 37, 39, 195, 196
+	rotate: 90
+saber_04
+	bounds: 1448, 654, 120, 121
+	offsets: 37, 38, 195, 196
+	rotate: 90
+saber_05
+	bounds: 1447, 407, 122, 123
+	offsets: 36, 37, 195, 196
+saber_06
+	bounds: 1159, 3, 124, 125
+	offsets: 35, 36, 195, 196
+saber_07
+	bounds: 1254, 131, 124, 125
+	offsets: 35, 36, 195, 196
+saber_08
+	bounds: 1127, 130, 126, 125
+	offsets: 34, 36, 195, 196
+	rotate: 90
+saber_09
+	bounds: 1443, 279, 126, 126
+	offsets: 34, 35, 195, 196
+saber_10
+	bounds: 1198, 379, 128, 129
+	offsets: 33, 34, 195, 196
+saber_11
+	bounds: 1196, 510, 130, 130
+	offsets: 33, 33, 195, 196
+saber_12
+	bounds: 1316, 644, 130, 130
+	offsets: 33, 33, 195, 196
+saber_13
+	bounds: 1012, 278, 131, 130
+	offsets: 32, 33, 195, 196
+	rotate: 90
+saber_14
+	bounds: 932, 494, 134, 138
+	offsets: 30, 29, 195, 196
+saber_15
+	bounds: 180, 23, 138, 146
+	offsets: 28, 25, 195, 196
+saber_16
+	bounds: 320, 23, 136, 146
+	offsets: 29, 25, 195, 196
+saber_17
+	bounds: 458, 23, 134, 146
+	offsets: 30, 25, 195, 196
+saber_18
+	bounds: 594, 51, 133, 146
+	offsets: 31, 25, 195, 196
+saber_19
+	bounds: 729, 51, 132, 146
+	offsets: 32, 25, 195, 196
+saber_20
+	bounds: 748, 247, 131, 146
+	offsets: 32, 25, 195, 196
+saber_21
+	bounds: 863, 103, 131, 142
+	offsets: 32, 27, 195, 196
+saber_22
+	bounds: 881, 251, 129, 142
+	offsets: 33, 27, 195, 196
+saber_23
+	bounds: 996, 109, 129, 140
+	offsets: 33, 28, 195, 196
+saber_24
+	bounds: 932, 634, 129, 140
+	offsets: 33, 28, 195, 196
+saber_25
+	bounds: 1063, 636, 127, 138
+	offsets: 34, 29, 195, 196
+saber_26
+	bounds: 1068, 498, 126, 136
+	offsets: 34, 30, 195, 196
+saber_27
+	bounds: 1192, 642, 122, 132
+	offsets: 36, 32, 195, 196
+saber_28
+	bounds: 1159, 258, 119, 128
+	offsets: 38, 34, 195, 196
+	rotate: 90
+saber_29
+	bounds: 180, 17, 1, 1

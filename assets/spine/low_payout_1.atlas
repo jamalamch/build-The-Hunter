@@ -1,0 +1,27 @@
+low_payout_1.webp
+	size: 454, 313
+	filter: Linear, Linear
+Sunburst_12
+	bounds: 2, 2, 309, 309
+bag
+	bounds: 313, 195, 133, 116
+	offsets: 0, 17, 133, 133
+blinky_00006
+	bounds: 313, 84, 114, 109
+	offsets: 5, 9, 119, 124
+btn1
+	bounds: 429, 144, 21, 49
+	offsets: 1, 1, 23, 51
+btn2
+	bounds: 411, 57, 22, 25
+	offsets: 1, 1, 24, 27
+btn3
+	bounds: 429, 101, 23, 41
+	offsets: 1, 1, 25, 43
+handle1
+	bounds: 313, 10, 29, 80
+	offsets: 132, 55, 192, 192
+	rotate: 90
+handle2
+	bounds: 313, 41, 41, 96
+	rotate: 90

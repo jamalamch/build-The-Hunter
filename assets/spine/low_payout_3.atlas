@@ -1,0 +1,38 @@
+low_payout_3.webp
+	size: 423, 315
+	filter: Linear, Linear
+Sunburst_12
+	bounds: 2, 2, 311, 326
+	offsets: 36, 22, 383, 376
+	rotate: 90
+body
+	bounds: 330, 234, 79, 76
+	rotate: 90
+cylinder
+	bounds: 330, 143, 89, 64
+	offsets: 1, 1, 91, 66
+	rotate: 90
+ear1
+	bounds: 330, 34, 76, 46
+	offsets: 0, 1, 76, 47
+ear2
+	bounds: 383, 94, 47, 36
+	rotate: 90
+eye
+	bounds: 330, 13, 27, 19
+	offsets: 1, 2, 29, 22
+eye_ball
+	bounds: 408, 300, 12, 13
+	offsets: 1, 1, 14, 15
+eye_blink
+	bounds: 383, 82, 14, 10
+hands
+	bounds: 396, 143, 44, 16
+	offsets: 3, 0, 47, 16
+	rotate: 90
+head
+	bounds: 330, 82, 59, 51
+	offsets: 0, 0, 66, 68
+	rotate: 90
+tail
+	bounds: 396, 189, 25, 43

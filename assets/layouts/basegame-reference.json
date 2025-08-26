@@ -1,0 +1,22 @@
+{
+  "layout": {
+    "children": [
+      {
+        "cls": "starling.display.Image",
+        "constructorParams": [
+          {
+            "cls": "starling.textures.Texture",
+            "textureName": "basegame-reference"
+          }
+        ],
+        "customParams": {
+          "forEditor": true
+        },
+        "params": {
+          "alpha": 0.61,
+          "name": "basegame-reference"
+        }
+      }
+    ]
+  }
+}

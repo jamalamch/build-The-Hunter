@@ -1,0 +1,105 @@
+super_win.webp
+	size: 792, 1032
+	filter: Linear, Linear
+	scale: 0.5
+flag
+	bounds: 296, 158, 494, 152
+	offsets: 0, 1, 494, 166
+panel
+	bounds: 389, 312, 407, 292
+	rotate: 90
+rays
+	bounds: 2, 323, 385, 396
+	offsets: 18, 13, 421, 427
+sparks
+	bounds: 2, 721, 744, 309
+	offsets: 2, 2, 747, 315
+super
+	bounds: 296, 2, 441, 154
+super_fx/super_0
+	bounds: 789, 1029, 1, 1
+super_fx/super_1
+	bounds: 789, 1029, 1, 1
+super_fx/super_2
+	bounds: 789, 1029, 1, 1
+super_fx/super_26
+	bounds: 789, 1029, 1, 1
+super_fx/super_27
+	bounds: 789, 1029, 1, 1
+super_fx/super_28
+	bounds: 789, 1029, 1, 1
+super_fx/super_29
+	bounds: 789, 1029, 1, 1
+super_fx/super_3
+	bounds: 789, 1029, 1, 1
+super_fx/super_10
+	bounds: 53, 70, 50, 65
+	offsets: 71, 19, 300, 100
+super_fx/super_11
+	bounds: 105, 71, 48, 64
+	offsets: 83, 24, 300, 100
+super_fx/super_12
+	bounds: 683, 439, 48, 64
+	offsets: 95, 24, 300, 100
+super_fx/super_13
+	bounds: 155, 71, 46, 64
+	offsets: 108, 24, 300, 100
+super_fx/super_14
+	bounds: 2, 17, 46, 62
+	offsets: 120, 26, 300, 100
+	rotate: 90
+super_fx/super_15
+	bounds: 66, 6, 46, 62
+	offsets: 132, 25, 300, 100
+super_fx/super_16
+	bounds: 162, 6, 45, 63
+	offsets: 144, 25, 300, 100
+super_fx/super_17
+	bounds: 114, 6, 46, 63
+	offsets: 156, 24, 300, 100
+super_fx/super_18
+	bounds: 683, 373, 46, 64
+	offsets: 168, 22, 300, 100
+super_fx/super_19
+	bounds: 683, 505, 48, 67
+	offsets: 178, 20, 300, 100
+super_fx/super_20
+	bounds: 2, 65, 49, 70
+	offsets: 189, 16, 300, 100
+super_fx/super_21
+	bounds: 683, 646, 50, 73
+	offsets: 200, 12, 300, 100
+super_fx/super_22
+	bounds: 683, 574, 49, 70
+	offsets: 211, 11, 300, 100
+super_fx/super_23
+	bounds: 748, 960, 39, 70
+	offsets: 222, 11, 300, 100
+super_fx/super_24
+	bounds: 748, 826, 29, 67
+	offsets: 232, 11, 300, 100
+super_fx/super_25
+	bounds: 683, 312, 19, 59
+	offsets: 242, 13, 300, 100
+super_fx/super_4
+	bounds: 739, 6, 15, 46
+	offsets: 40, 24, 300, 100
+	rotate: 90
+super_fx/super_5
+	bounds: 253, 75, 25, 60
+	offsets: 42, 18, 300, 100
+super_fx/super_6
+	bounds: 748, 895, 36, 63
+	offsets: 42, 17, 300, 100
+super_fx/super_7
+	bounds: 203, 73, 48, 62
+	offsets: 40, 17, 300, 100
+super_fx/super_8
+	bounds: 739, 90, 51, 66
+	offsets: 47, 17, 300, 100
+super_fx/super_9
+	bounds: 739, 23, 51, 65
+	offsets: 59, 17, 300, 100
+win
+	bounds: 2, 137, 292, 184
+	offsets: 3, 10, 300, 194

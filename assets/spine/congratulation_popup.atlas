@@ -1,0 +1,132 @@
+congratulation_popup.webp
+	size: 725, 1022
+	filter: Linear, Linear
+	scale: 0.5
+PRESS ANYWHERE TO CONTINUE
+	bounds: 2, 2, 214, 13
+YOU HAVE WON
+	bounds: 2, 17, 297, 32
+base
+	bounds: 2, 684, 467, 336
+beer1
+	bounds: 426, 248, 164, 169
+beer2
+	bounds: 431, 419, 193, 200
+	rotate: 90
+cong_fx/cong_fx_0
+	bounds: 630, 365, 1, 1
+cong_fx/cong_fx_1
+	bounds: 630, 365, 1, 1
+cong_fx/cong_fx_28
+	bounds: 630, 365, 1, 1
+cong_fx/cong_fx_29
+	bounds: 630, 365, 1, 1
+cong_fx/cong_fx_10
+	bounds: 440, 118, 47, 33
+	offsets: 72, 37, 300, 100
+cong_fx/cong_fx_11
+	bounds: 489, 119, 47, 32
+	offsets: 84, 39, 300, 100
+cong_fx/cong_fx_12
+	bounds: 538, 117, 46, 32
+	offsets: 96, 40, 300, 100
+cong_fx/cong_fx_13
+	bounds: 472, 70, 46, 32
+	offsets: 108, 40, 300, 100
+	rotate: 90
+cong_fx/cong_fx_14
+	bounds: 506, 71, 46, 30
+	offsets: 120, 42, 300, 100
+	rotate: 90
+cong_fx/cong_fx_15
+	bounds: 538, 85, 46, 30
+	offsets: 132, 42, 300, 100
+cong_fx/cong_fx_16
+	bounds: 586, 119, 45, 31
+	offsets: 144, 41, 300, 100
+cong_fx/cong_fx_17
+	bounds: 586, 152, 45, 32
+	offsets: 156, 40, 300, 100
+cong_fx/cong_fx_18
+	bounds: 586, 186, 45, 33
+	offsets: 168, 38, 300, 100
+cong_fx/cong_fx_19
+	bounds: 424, 82, 46, 34
+	offsets: 179, 37, 300, 100
+cong_fx/cong_fx_2
+	bounds: 308, 54, 14, 24
+	offsets: 16, 33, 300, 100
+cong_fx/cong_fx_20
+	bounds: 592, 221, 46, 35
+	offsets: 191, 35, 300, 100
+	rotate: 90
+cong_fx/cong_fx_21
+	bounds: 545, 151, 46, 36
+	offsets: 202, 33, 300, 100
+	rotate: 90
+cong_fx/cong_fx_22
+	bounds: 545, 199, 47, 37
+	offsets: 213, 30, 300, 100
+	rotate: 90
+cong_fx/cong_fx_23
+	bounds: 431, 636, 46, 38
+	offsets: 225, 28, 300, 100
+	rotate: 90
+cong_fx/cong_fx_24
+	bounds: 592, 319, 47, 36
+	offsets: 236, 28, 300, 100
+	rotate: 90
+cong_fx/cong_fx_25
+	bounds: 586, 83, 38, 34
+	offsets: 246, 28, 300, 100
+cong_fx/cong_fx_26
+	bounds: 275, 51, 27, 31
+	offsets: 257, 28, 300, 100
+	rotate: 90
+cong_fx/cong_fx_27
+	bounds: 431, 618, 16, 26
+	offsets: 268, 31, 300, 100
+	rotate: 90
+cong_fx/cong_fx_3
+	bounds: 506, 43, 26, 30
+	offsets: 16, 29, 300, 100
+	rotate: 90
+cong_fx/cong_fx_4
+	bounds: 538, 50, 36, 33
+	offsets: 16, 29, 300, 100
+cong_fx/cong_fx_5
+	bounds: 325, 82, 48, 35
+	offsets: 16, 29, 300, 100
+cong_fx/cong_fx_6
+	bounds: 592, 368, 49, 37
+	offsets: 26, 29, 300, 100
+	rotate: 90
+cong_fx/cong_fx_7
+	bounds: 275, 80, 48, 37
+	offsets: 38, 30, 300, 100
+cong_fx/cong_fx_8
+	bounds: 592, 269, 48, 35
+	offsets: 49, 33, 300, 100
+	rotate: 90
+cong_fx/cong_fx_9
+	bounds: 375, 82, 47, 35
+	offsets: 61, 35, 300, 100
+congratulations
+	bounds: 633, 76, 536, 89
+	rotate: 90
+leaf1
+	bounds: 440, 153, 103, 93
+leaf2
+	bounds: 275, 202, 149, 239
+leaf3
+	bounds: 2, 51, 271, 390
+leaf4
+	bounds: 471, 614, 406, 252
+	rotate: 90
+leaf5
+	bounds: 275, 119, 163, 81
+	offsets: 1, 0, 164, 81
+leaf6
+	bounds: 2, 443, 427, 239
+placeholder
+	bounds: 630, 362, 1, 1

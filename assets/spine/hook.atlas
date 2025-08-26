@@ -1,0 +1,6 @@
+hook.webp
+	size: 92, 559
+	filter: Linear, Linear
+	scale: 0.5
+hook
+	bounds: 2, 2, 88, 555

@@ -1,0 +1,29 @@
+spin_button.webp
+	size: 1024, 1024
+	filter: Linear, Linear
+	scale: 0.5
+1211
+	bounds: 463, 334, 224, 190
+2323
+	bounds: 463, 138, 220, 194
+Full
+	bounds: 2, 542, 459, 450
+Spin
+	bounds: 2, 2, 206, 86
+Stop icon
+	bounds: 463, 526, 249, 251
+i
+	bounds: 463, 106, 30, 84
+	rotate: 90
+infinity_icon
+	bounds: 463, 779, 384, 213
+n
+	bounds: 210, 10, 67, 78
+p
+	bounds: 849, 829, 66, 79
+s
+	bounds: 849, 910, 82, 82
+starglow1
+	bounds: 714, 702, 75, 75
+starglow2
+	bounds: 2, 90, 459, 450

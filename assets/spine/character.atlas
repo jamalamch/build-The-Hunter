@@ -1,0 +1,252 @@
+character.webp
+	size: 1950, 1142
+	filter: Linear, Linear
+	scale: 0.5
+arms_glow/hp_3_eyes_2_00000
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00002
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00004
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00006
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00007
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00009
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00011
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00013
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00014
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00017
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00019
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00022
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00024
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00026
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00029
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00031
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00033
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00034
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00035
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00037
+	bounds: 1366, 724, 1, 1
+power/Power_00011
+	bounds: 1366, 724, 1, 1
+power/Power_00012
+	bounds: 1366, 724, 1, 1
+power/Power_00014
+	bounds: 1366, 724, 1, 1
+power/Power_00016
+	bounds: 1366, 724, 1, 1
+power/Power_00018
+	bounds: 1366, 724, 1, 1
+power/Power_00019
+	bounds: 1366, 724, 1, 1
+power/Power_00020
+	bounds: 1366, 724, 1, 1
+power/Power_00021
+	bounds: 1366, 724, 1, 1
+power/Power_00022
+	bounds: 1366, 724, 1, 1
+power/Power_00023
+	bounds: 1366, 724, 1, 1
+arms_glow/hp_3_eyes_2_00001
+	bounds: 1310, 724, 19, 12
+	offsets: 2, 18, 50, 50
+arms_glow/hp_3_eyes_2_00003
+	bounds: 1287, 724, 21, 12
+	offsets: 2, 18, 50, 50
+arms_glow/hp_3_eyes_2_00005
+	bounds: 1202, 724, 32, 12
+	offsets: 3, 18, 50, 50
+arms_glow/hp_3_eyes_2_00008
+	bounds: 1719, 892, 37, 14
+	offsets: 2, 17, 50, 50
+arms_glow/hp_3_eyes_2_00010
+	bounds: 1716, 866, 38, 14
+	offsets: 2, 17, 50, 50
+arms_glow/hp_3_eyes_2_00012
+	bounds: 1624, 854, 39, 14
+	offsets: 2, 17, 50, 50
+arms_glow/hp_3_eyes_2_00015
+	bounds: 1732, 746, 43, 15
+	offsets: 2, 17, 50, 50
+arms_glow/hp_3_eyes_2_00016
+	bounds: 1684, 746, 46, 15
+	offsets: 1, 17, 50, 50
+arms_glow/hp_3_eyes_2_00018
+	bounds: 1589, 727, 46, 16
+	offsets: 2, 16, 50, 50
+arms_glow/hp_3_eyes_2_00020
+	bounds: 1589, 745, 47, 16
+	offsets: 2, 16, 50, 50
+arms_glow/hp_3_eyes_2_00021
+	bounds: 1637, 727, 46, 16
+	offsets: 2, 16, 50, 50
+arms_glow/hp_3_eyes_2_00023
+	bounds: 1638, 745, 44, 16
+	offsets: 4, 16, 50, 50
+arms_glow/hp_3_eyes_2_00025
+	bounds: 1685, 727, 41, 17
+	offsets: 6, 16, 50, 50
+arms_glow/hp_3_eyes_2_00027
+	bounds: 1728, 727, 40, 17
+	offsets: 7, 16, 50, 50
+arms_glow/hp_3_eyes_2_00028
+	bounds: 1770, 727, 37, 17
+	offsets: 10, 16, 50, 50
+arms_glow/hp_3_eyes_2_00030
+	bounds: 1624, 870, 36, 16
+	offsets: 11, 16, 50, 50
+	rotate: 90
+arms_glow/hp_3_eyes_2_00032
+	bounds: 1745, 768, 33, 15
+	offsets: 14, 17, 50, 50
+arms_glow/hp_3_eyes_2_00036
+	bounds: 1236, 723, 27, 13
+	offsets: 21, 18, 50, 50
+arms_glow/hp_3_eyes_2_00038
+	bounds: 1350, 723, 14, 13
+	offsets: 34, 18, 50, 50
+body
+	bounds: 1624, 908, 232, 324
+	offsets: 0, 0, 232, 328
+	rotate: 90
+fur
+	bounds: 1745, 785, 79, 64
+	rotate: 90
+hair
+	bounds: 1464, 723, 123, 128
+head
+	bounds: 1589, 763, 88, 154
+	rotate: 90
+lt_eye
+	bounds: 1331, 725, 17, 11
+	offsets: 0, 1, 18, 13
+lt_eye_ball
+	bounds: 1366, 727, 8, 9
+lt_hand
+	bounds: 1202, 738, 113, 260
+	rotate: 90
+particles/lava_00000
+	bounds: 1202, 853, 420, 287
+	offsets: 0, 0, 420, 309
+particles/lava_00001
+	bounds: 2, 2, 420, 294
+	offsets: 0, 0, 420, 309
+particles/lava_00002
+	bounds: 424, 3, 420, 293
+	offsets: 0, 0, 420, 309
+particles/lava_00003
+	bounds: 602, 722, 418, 298
+	offsets: 0, 0, 420, 309
+	rotate: 90
+particles/lava_00004
+	bounds: 1198, 302, 419, 296
+	offsets: 1, 0, 420, 309
+	rotate: 90
+particles/lava_00005
+	bounds: 602, 300, 420, 296
+	offsets: 0, 0, 420, 309
+	rotate: 90
+particles/lava_00006
+	bounds: 2, 720, 420, 299
+	offsets: 0, 0, 420, 309
+	rotate: 90
+particles/lava_00007
+	bounds: 1268, 2, 414, 298
+	offsets: 3, 0, 420, 309
+particles/lava_00008
+	bounds: 1496, 303, 418, 287
+	offsets: 2, 0, 420, 309
+	rotate: 90
+particles/lava_00009
+	bounds: 846, 2, 420, 296
+	offsets: 0, 0, 420, 309
+particles/lava_00010
+	bounds: 2, 298, 420, 298
+	offsets: 0, 0, 420, 309
+	rotate: 90
+particles/lava_00011
+	bounds: 902, 723, 417, 298
+	offsets: 3, 0, 420, 309
+	rotate: 90
+particles/lava_00012
+	bounds: 900, 300, 420, 296
+	offsets: 0, 0, 420, 309
+	rotate: 90
+particles/lava_00013
+	bounds: 302, 298, 420, 298
+	offsets: 0, 0, 420, 309
+	rotate: 90
+particles/lava_00014
+	bounds: 303, 720, 420, 297
+	offsets: 0, 0, 420, 309
+	rotate: 90
+power/Power_00000
+	bounds: 1756, 867, 22, 23
+	offsets: 9, 8, 40, 40
+power/Power_00001
+	bounds: 1642, 882, 24, 24
+	offsets: 7, 7, 40, 40
+power/Power_00002
+	bounds: 1691, 856, 24, 23
+	offsets: 7, 8, 40, 40
+	rotate: 90
+power/Power_00003
+	bounds: 1665, 856, 24, 24
+	offsets: 7, 7, 40, 40
+power/Power_00004
+	bounds: 1694, 882, 23, 24
+	offsets: 8, 7, 40, 40
+power/Power_00005
+	bounds: 1668, 882, 24, 24
+	offsets: 7, 7, 40, 40
+power/Power_00006
+	bounds: 1802, 760, 23, 22
+	offsets: 8, 8, 40, 40
+	rotate: 90
+power/Power_00007
+	bounds: 1777, 746, 23, 20
+	offsets: 8, 9, 40, 40
+power/Power_00008
+	bounds: 1780, 883, 23, 22
+	offsets: 8, 8, 40, 40
+	rotate: 90
+power/Power_00009
+	bounds: 1827, 884, 22, 20
+	offsets: 9, 9, 40, 40
+	rotate: 90
+power/Power_00010
+	bounds: 1811, 859, 22, 21
+	offsets: 8, 9, 40, 40
+	rotate: 90
+power/Power_00013
+	bounds: 1804, 883, 21, 23
+	offsets: 9, 8, 40, 40
+power/Power_00015
+	bounds: 1811, 809, 16, 23
+	offsets: 10, 8, 40, 40
+power/Power_00017
+	bounds: 1811, 834, 17, 23
+	offsets: 10, 8, 40, 40
+rt_eye
+	bounds: 1265, 723, 20, 13
+	offsets: 0, 1, 20, 14
+rt_eye_ball
+	bounds: 1376, 727, 8, 9
+rt_hand
+	bounds: 1684, 157, 144, 257
+	rotate: 90

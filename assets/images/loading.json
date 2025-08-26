@@ -1,0 +1,303 @@
+{
+  "frames": {
+    "character": {
+      "frame": {
+        "x": 0.8,
+        "y": 0.8,
+        "w": 512,
+        "h": 781.6
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42.400000000000006,
+        "y": 0,
+        "w": 512,
+        "h": 781.6
+      },
+      "sourceSize": {
+        "w": 600,
+        "h": 782.4000000000001
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Text": {
+      "frame": {
+        "x": 514.4,
+        "y": 0.8,
+        "w": 568,
+        "h": 80.80000000000001
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 568,
+        "h": 80.80000000000001
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 84
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "footerText": {
+      "frame": {
+        "x": 596.8000000000001,
+        "y": 0.8,
+        "w": 568,
+        "h": 80.80000000000001
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 568,
+        "h": 80.80000000000001
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 84
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GoldenStroke": {
+      "frame": {
+        "x": 679.2,
+        "y": 0.8,
+        "w": 440.8,
+        "h": 49.6
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0.8,
+        "y": 0,
+        "w": 440.8,
+        "h": 49.6
+      },
+      "sourceSize": {
+        "w": 441.6,
+        "h": 49.6
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "BaseStrokepanel": {
+      "frame": {
+        "x": 730.4000000000001,
+        "y": 0.8,
+        "w": 435.20000000000005,
+        "h": 43.2
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 435.20000000000005,
+        "h": 43.2
+      },
+      "sourceSize": {
+        "w": 435.20000000000005,
+        "h": 43.2
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "BaseColored": {
+      "frame": {
+        "x": 775.2,
+        "y": 0.8,
+        "w": 424.8,
+        "h": 34.4
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 424.8,
+        "h": 34.4
+      },
+      "sourceSize": {
+        "w": 424.8,
+        "h": 34.4
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "Stripe": {
+      "frame": {
+        "x": 0.8,
+        "y": 784,
+        "w": 417.6,
+        "h": 34.4
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 7.2,
+        "y": 0,
+        "w": 417.6,
+        "h": 34.4
+      },
+      "sourceSize": {
+        "w": 424.8,
+        "h": 34.4
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "highlightBottom": {
+      "frame": {
+        "x": 811.2,
+        "y": 0.8,
+        "w": 408.8,
+        "h": 5.6000000000000005
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 4.800000000000001,
+        "w": 408.8,
+        "h": 5.6000000000000005
+      },
+      "sourceSize": {
+        "w": 408.8,
+        "h": 10.4
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "highlightTop": {
+      "frame": {
+        "x": 420,
+        "y": 784,
+        "w": 408.8,
+        "h": 10.4
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 408.8,
+        "h": 10.4
+      },
+      "sourceSize": {
+        "w": 408.8,
+        "h": 10.4
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "logo": {
+      "frame": {
+        "x": 0.8,
+        "y": 820,
+        "w": 336.8,
+        "h": 224.8
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 6.4,
+        "w": 336.8,
+        "h": 224.8
+      },
+      "sourceSize": {
+        "w": 337.6,
+        "h": 231.20000000000002
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "startbutton": {
+      "frame": {
+        "x": 679.2,
+        "y": 443.20000000000005,
+        "w": 320,
+        "h": 100.80000000000001
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1.6,
+        "w": 320,
+        "h": 100.80000000000001
+      },
+      "sourceSize": {
+        "w": 320,
+        "h": 104
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "GoldenStrokeMain": {
+      "frame": {
+        "x": 514.4,
+        "y": 570.4,
+        "w": 192.8,
+        "h": 22.400000000000002
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 192.8,
+        "h": 22.400000000000002
+      },
+      "sourceSize": {
+        "w": 192.8,
+        "h": 22.400000000000002
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "loading.webp",
+    "format": "RGBA8888",
+    "size": {
+      "w": 830,
+      "h": 1046
+    },
+    "scale": 0.8
+  }
+}

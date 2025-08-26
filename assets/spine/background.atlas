@@ -1,0 +1,15 @@
+background.webp
+	size: 464, 141
+	filter: Linear, Linear
+	scale: 0.5
+banner_rays
+	bounds: 286, 2, 144, 137
+	offsets: 50, 6, 236, 148
+dust_three
+	bounds: 2, 20, 282, 119
+	offsets: 9, 2, 293, 127
+leaf
+	bounds: 432, 97, 42, 30
+	rotate: 90
+lotus
+	bounds: 432, 75, 26, 20

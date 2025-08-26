@@ -1,0 +1,23 @@
+low_payout_2.webp
+	size: 528, 315
+	filter: Linear, Linear
+Sunburst_12
+	bounds: 2, 2, 311, 326
+	offsets: 36, 22, 383, 376
+	rotate: 90
+blinky_00006
+	bounds: 330, 37, 114, 109
+	offsets: 5, 9, 119, 124
+	rotate: 90
+cup
+	bounds: 441, 70, 85, 81
+	offsets: 1, 1, 87, 83
+fire_ember_particle
+	bounds: 330, 153, 191, 160
+	offsets: 9, 1, 200, 200
+handle
+	bounds: 441, 8, 60, 55
+	rotate: 90
+leaf
+	bounds: 330, 6, 29, 55
+	rotate: 90
