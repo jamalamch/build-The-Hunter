@@ -3,11 +3,11 @@
   "textures": [
     {
       "name": "loading-screen",
-      "url": "./images/main-game-screen.jpg?v=1.0.8.1756294013484"
+      "url": "./images/main-game-screen.jpg?v=1.0.8.1756370901288"
     },
     {
       "name": "loading",
-      "url": "./images/loading.json?v=1.0.8.1756294013484"
+      "url": "./images/loading.json?v=1.0.8.1756370901288"
     }
   ],
   "spine": [],
@@ -15,7 +15,7 @@
   "fonts": [
     {
       "name": "Alexandria-Bold",
-      "url": "./fonts/AlexandriaBold.xml?v=1.0.8.1756294013484",
+      "url": "./fonts/AlexandriaBold.xml?v=1.0.8.1756370901288",
       "type": "bitmap"
     }
   ]
